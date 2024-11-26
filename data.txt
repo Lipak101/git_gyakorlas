@@ -1,0 +1,4 @@
+"Tamás",70
+"Imre",98
+"Erika",76
+"Emese",56
